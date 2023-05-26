@@ -1,14 +1,60 @@
 {
   "..\\src\\layout\\Footer.js -> ../components/Counter": {
-    "id": "..\\src\\layout\\Footer.js -> ../components/Counter",
+    "id": 6774,
     "files": [
-      "static/chunks/src_components_Counter_js.js"
+      "static/chunks/457.a8cac3e44bc8bfdb.js"
+    ]
+  },
+  "farmers.js -> ../src/components/Counter": {
+    "id": 6774,
+    "files": [
+      "static/chunks/457.a8cac3e44bc8bfdb.js"
     ]
   },
   "index.js -> ../src/components/MunfimCountdown": {
-    "id": "index.js -> ../src/components/MunfimCountdown",
+    "id": 800,
     "files": [
-      "static/chunks/src_components_MunfimCountdown_js.js"
+      "static/chunks/800.caeba41e5015f86e.js"
+    ]
+  },
+  "index2.js -> ../src/components/MunfimCountdown": {
+    "id": 800,
+    "files": [
+      "static/chunks/800.caeba41e5015f86e.js"
+    ]
+  },
+  "index3.js -> ../src/components/MunfimCountdown": {
+    "id": 800,
+    "files": [
+      "static/chunks/800.caeba41e5015f86e.js"
+    ]
+  },
+  "index3.js -> ../src/components/istotope/PopularProducts": {
+    "id": 9461,
+    "files": [
+      "static/chunks/391.07d49f0575a5578e.js",
+      "static/chunks/461.0a6721bfb6d3487a.js"
+    ]
+  },
+  "index3.js -> ../src/components/istotope/TrendyProducts": {
+    "id": 6879,
+    "files": [
+      "static/chunks/391.07d49f0575a5578e.js",
+      "static/chunks/879.82201897fcad24f1.js"
+    ]
+  },
+  "portfolio-fluid.js -> ../src/components/istotope/PortfolioFluidIsotope": {
+    "id": 7203,
+    "files": [
+      "static/chunks/391.07d49f0575a5578e.js",
+      "static/chunks/203.f42f556c3336c941.js"
+    ]
+  },
+  "portfolio-grid.js -> ../src/components/istotope/PortfolioGridIsotope": {
+    "id": 1019,
+    "files": [
+      "static/chunks/391.07d49f0575a5578e.js",
+      "static/chunks/19.806e8e4e80704f25.js"
     ]
   }
 }
