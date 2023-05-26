@@ -44,33 +44,35 @@ const SearchBtn = () => {
 const DaskTopMenu = () => (
   <ul className="navigation clearfix d-none d-lg-flex">
     <li className="dropdown">
-      <a href="#">Home</a>
-      <ul>
+      <Link href="/">Home</Link>
+      {/* <ul>
         <Home />
-      </ul>
-      <div className="dropdown-btn">
+      </ul> */}
+      {/* <div className="dropdown-btn">
         <span className="fas fa-chevron-down" />
-      </div>
+      </div> */}
     </li>
     <li className="dropdown">
-      <a href="#">pages</a>
-      <ul>
+      {/* <a href="#">pages</a> */}
+      <Link href="/services">Services</Link>
+      {/* <ul>
         <PagesDasktop />
       </ul>
       <div className="dropdown-btn">
         <span className="fas fa-chevron-down" />
-      </div>
+      </div> */}
     </li>
     <li className="dropdown">
-      <a href="#">portfolio</a>
-      <ul>
+      {/* <a href="#">portfolio</a> */}
+      <Link href="/farmers">Teams</Link>
+      {/* <ul>
         <Portfolio />
       </ul>
       <div className="dropdown-btn">
         <span className="fas fa-chevron-down" />
-      </div>
+      </div> */}
     </li>
-    <li className="dropdown">
+    {/* <li className="dropdown">
       <a href="#">blog</a>
       <ul>
         <Blog />
@@ -78,8 +80,8 @@ const DaskTopMenu = () => (
       <div className="dropdown-btn">
         <span className="fas fa-chevron-down" />
       </div>
-    </li>
-    <li className="dropdown">
+    </li> */}
+    {/* <li className="dropdown">
       <a href="#">shop</a>
       <ul>
         <Shop />
@@ -87,8 +89,17 @@ const DaskTopMenu = () => (
       <div className="dropdown-btn">
         <span className="fas fa-chevron-down" />
       </div>
+    </li> */}
+    <li className="dropdown">
+      {/* <a href="#">portfolio</a> */}
+      <Link href="/contact">Contact</Link>
+      {/* <ul>
+        <Portfolio />
+      </ul>
+      <div className="dropdown-btn">
+        <span className="fas fa-chevron-down" />
+      </div> */}
     </li>
-    <Contact />
   </ul>
 );
 
@@ -150,14 +161,14 @@ const DefaultHeader = () => (
                 </ul>
               </div>
             </div>
-            <div className="col-xl-5 col-lg-6">
+            {/* <div className="col-xl-5 col-lg-6">
               <div className="top-right text-lg-right">
                 <ul>
                   <li>
                     <i className="far fa-phone" /> <b>Call :</b>{" "}
                     <a href="callto:+012(345)67899">+012 (345) 678 99</a>
-                  </li>
-                  <li>
+                  </li> */}
+            {/* <li>
                     <div className="social-style-one">
                       <a href="#">
                         <i className="fab fa-facebook-f" />
@@ -171,11 +182,11 @@ const DefaultHeader = () => (
                       <a href="#">
                         <i className="fab fa-instagram" />
                       </a>
-                    </div>
-                  </li>
-                </ul>
-              </div>
-            </div>
+                    </div> */}
+            {/* </li> */}
+            {/* </ul> */}
+            {/* </div>
+            </div> */}
           </div>
         </div>
       </div>
@@ -262,7 +273,7 @@ const Header1 = () => (
                     <i className="far fa-phone" /> <b>Call :</b>{" "}
                     <a href="callto:+012(345)67899">+012 (345) 678 99</a>
                   </li>
-                  <li>
+                  {/* <li>
                     <div className="social-style-one">
                       <a href="#">
                         <i className="fab fa-facebook-f" />
@@ -277,7 +288,7 @@ const Header1 = () => (
                         <i className="fab fa-instagram" />
                       </a>
                     </div>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
