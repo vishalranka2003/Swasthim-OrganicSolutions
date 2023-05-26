@@ -90,7 +90,7 @@ const Index = () => {
                 <img src="assets/images/category/icon4.png" alt="Icon" />
               </div>
               <h5>
-                <Link href="/services">Crisp Bakery</Link>
+                <Link href="/services">Vishal Ranka Bakery </Link>
               </h5>
               <img src="assets/images/category/arrow.png" alt="Arrow" />
             </div>
