@@ -99,7 +99,7 @@ const Index = () => {
                 <img src="assets/images/category/icon5.png" alt="Icon" />
               </div>
               <h5>
-                <Link href="/services">Chiken Egg</Link>
+                <Link href="/services">Shashank Bakery</Link>
               </h5>
               <img src="assets/images/category/arrow.png" alt="Arrow" />
             </div>
