@@ -41,9 +41,7 @@ const Index = () => {
           <div className="row align-items-end pb-35">
             <div className="col-lg-7 wow fadeInUp delay-0-2s">
               <div className="section-title mb-20">
-                <span className="sub-title mb-20">
-                  Popular Foods and Vegetables
-                </span>
+                <span className="sub-title mb-20">pOPULAR VISHAL SHASHAK</span>
                 <h2>Quality Fruits &amp; Vegetables</h2>
               </div>
             </div>
