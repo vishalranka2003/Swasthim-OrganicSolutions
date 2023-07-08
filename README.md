@@ -26,10 +26,23 @@ To run this project locally, follow these steps:
 
 3. Install the dependencies:
 
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 4. Start the development server:
 
    ```bash
    npm run dev
+
+
+## Technologies Used
+
+- Next.js: A React framework for server-rendered applications.
+- React: A JavaScript library for building user interfaces.
+- CSS: Styling the components and layouts.
+
+## Contributing
+
+Contributions to Swasthim-OrganicSolutions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+
