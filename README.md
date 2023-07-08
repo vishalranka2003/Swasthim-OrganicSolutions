@@ -1,6 +1,5 @@
 # Swasthim-OrganicSolutions
 
-![Swasthim-OrganicSolutions](swasthim-logo.png)
 
 Swasthim-OrganicSolutions is a web application built with Next.js that offers organic and natural solutions for a healthy lifestyle. This project aims to provide users with a convenient platform to explore and purchase a wide range of organic products.
 
