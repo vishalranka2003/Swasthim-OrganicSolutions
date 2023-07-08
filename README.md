@@ -5,7 +5,7 @@ Swasthim-OrganicSolutions is a web application built with Next.js that offers or
 
 ## Features
 
-- detailed iverview of what our platform Swasthim offers and serves.
+- Detailed overview of what our platform Swasthim offers and serves.
 - Browse through the various services offeresd by the platform.
 - Responsive design for optimal user experience on various devices.
 
